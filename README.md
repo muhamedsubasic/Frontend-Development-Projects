@@ -23,13 +23,13 @@
 ## Project III - React single-page application. 
 ###### Key files and roles:
 
-- package.json / package-lock.json — npm project and dependencies.
-- public/index.html — app entry HTML.
-- src/index.js — React bootstrapping.
-- src/App.js — root component (composes pages / routing).
-- src/components/Navbar.js (+ Navbar.css) — top navigation.
-- src/pages/*.js — page components (Home, About, Contact, Posts).
-- src/*.css — app styling.
+- package.json / package-lock.json - npm project and dependencies.
+- public/index.html - app entry HTML.
+- src/index.js - React bootstrapping.
+- src/App.js - root component (composes pages / routing).
+- src/components/Navbar.js (+ Navbar.css) - top navigation.
+- src/pages/*.js - page components (Home, About, Contact, Posts).
+- src/*.css - app styling.
 
 ###### Methods / technologies used:
 
